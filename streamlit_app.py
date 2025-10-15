@@ -10,7 +10,7 @@ st.write(
 ) 
 
 name_on_order= st.text_input("Name on Smoothie:")
-st.write("The name on your smoothiew would be: ", name_on_order)
+st.write("The name on your smoothie would be: ", name_on_order)
 
 
 # We brought col here to select from column
