@@ -89,8 +89,7 @@ session=cnx.session()
 ingredients_list= st.multiselect(
     'Choose up to 5 ingredients:',
     # ,my_dataframe,
-    max_selections=5
-    
+    # max_selections=5
 )
 
 import streamlit as st
