@@ -87,7 +87,7 @@ session=cnx.session()
 
 
 ingredients_list= st.multiselect(
-    'Choose up to 5 ingredients:'
+    'Choose up to 5 ingredients:',
     # ,my_dataframe,
     max_selections=5
     
